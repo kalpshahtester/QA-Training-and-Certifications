@@ -11,7 +11,12 @@ A focused record of software testing education and course certifications. Certif
 | Manual and Automation Tester — Certificate of Training | TOPS Technologies | 25 March 2026 | Completed |
 | Test Engineer – Product Development | TOPS Technologies Pvt. Ltd.; certificate displays Skill India / NSDC marks | 27 March 2026 | Grade A |
 
-The original PDFs are **not yet hosted in this repository**. This table lists the certificate information only; downloadable files will be added separately.
+### View the original certificates
+
+- **[TOPS Technologies — Manual and Automation Tester (PDF)](./TOPS_Certificate_Kalp_Shah.pdf)** · Issued 25 March 2026.
+- **[Test Engineer – Product Development (PDF)](./NSDC_Certificate_Kalp_Shah.pdf)** · Grade A · Issued 27 March 2026.
+
+These PDF scans are publicly accessible in this repository. They may contain personal details and certificate identifiers.
 
 ## Selected Manual QA projects
 
